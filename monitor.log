@@ -1,0 +1,21 @@
+======================================
+Logging time: Fri Apr 21 04:43:09 2017
+======================================
+
+Context
+-------
+
+_ _ g e t _ d i r _ _ ( ' ' 1 2 2 ' )
+
+Traceback
+---------
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\lib\site-packages\spyder\widgets\externalshell\monitor.py", line 474, in run
+    result = eval(command, glbs, lcls)
+  File "<string>", line 1
+    __get_dir__(''122')
+                    ^
+SyntaxError: invalid syntax
+
+
